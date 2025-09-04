@@ -1,7 +1,7 @@
 # dw_service_areas_public
-A project to study disparities in drinking water quality test the implications of adopting different service area types when representing public water system demographics.
+A project to study disparities in drinking water quality and test the implications of adopting different service area types when representing public water system demographics. 
 
-The project uses service area boundaries that are county-based, zipcode, SimpleLab/EPIC, USGS, and/or Hall/Murray service area products.
+The project uses service area boundaries that are county-based, zipcode, SimpleLab/EPIC, USGS, and/or Hall/Murray service area products. 
 
 Code is organized as follows:
 
